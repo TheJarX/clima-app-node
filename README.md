@@ -1,11 +1,8 @@
-## INSTALL PACKAGES
+### Recordar instalar los packages
 
-Ejecutar ```npm install 
-``` para hacerlo.
+Ejecutar ```npm install``` para hacerlo.
 
 ---
+### Uso
 
-## Uso
-
-``` node app -a "Buenos Aires Argentia" ```
-
+```node app -a "Buenos Aires Argentina" ```
